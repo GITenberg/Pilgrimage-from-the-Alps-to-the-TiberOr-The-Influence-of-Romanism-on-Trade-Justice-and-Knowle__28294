@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33245
     wikipedia: http://en.wikipedia.org/wiki/James_Aitken_Wylie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28294#Pilgrimage-from-the-Alps-to-the-TiberOr-The-Influence-of-Romanism-on-Trade-Justice-and-Knowle_
 gutenberg_issued: '2009-03-09'
 gutenberg_type: Text
 identifiers:
