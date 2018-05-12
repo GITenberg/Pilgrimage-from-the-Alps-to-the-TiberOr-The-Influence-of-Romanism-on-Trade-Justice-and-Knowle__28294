@@ -1,0 +1,31 @@
+_repo: Pilgrimage-from-the-Alps-to-the-TiberOr-The-Influence-of-Romanism-on-Trade-Justice-and-Knowle__28294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wylie, James Aitken
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '33245'
+    url: http://www.gutenberg.org/2009/agents/33245
+    wikipedia: http://en.wikipedia.org/wiki/James_Aitken_Wylie
+description: ''
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28294'
+  lccn: '04006663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcc 'DG'
+- !lcsh 'Catholic Church -- Italy'
+title: 'Pilgrimage from the Alps to the Tiber
+
+  Or The Influence of Romanism on Trade, Justice, and Knowledge'
+url: http://www.gutenberg.org/ebooks/28294
